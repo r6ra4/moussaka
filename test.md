@@ -1,5 +1,5 @@
 
-<img src="https://github.com/r6ra4/moussaka/blob/557cfe4f111f6bf3da9035339fde10683c3fe61d/Black%20logo%20-%20no%20background.png?raw=true"
+<img src="https://raw.githubuser.com/r6ra4/moussaka/blob/557cfe4f111f6bf3da9035339fde10683c3fe61d/Black%20logo%20-%20no%20background.png"
 
 
 

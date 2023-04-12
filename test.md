@@ -1,6 +1,6 @@
 
+https://github.com/r6ra4/moussaka/blob/557cfe4f111f6bf3da9035339fde10683c3fe61d/Black%20logo%20-%20no%20background.png
 
-![Alt text](Looka%20-%20Logo/Logo%20Files/For%20Web/png/Black%20logo%20-%20no%20background.png)
 
 
 
